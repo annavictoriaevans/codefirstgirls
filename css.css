@@ -1,0 +1,110 @@
+<style type="text/css">
+
+ div {
+    text-align: center;
+    color:white;
+}
+
+.debut{
+background-image: url("http://www.unfinishedman.com/wp-content/uploads/2012/09/Seychelles_Mahe_Anse_Diri_89880b588c8a4d08bcf31c925e86c0ed.jpg");
+background-size: cover;
+background-position: center;
+padding-top: 300px;
+padding-bottom: 10px;
+padding-left:100px;
+}
+
+.container{
+  background-color: #00cccc;
+}
+
+label{
+    font-size: 20px;
+    position: right;
+    color: white;
+  }
+
+input[type="submit"] {
+      background: #00b3b3;
+      font-style: helvetica;
+      color: white;
+      font-style: bold;
+      font-size: 18px;
+      padding-top:100px;
+      position: right;
+      -webkit-appearance: button;
+      cursor: pointer;
+  }
+
+
+
+.brand{
+  font-size:120px;
+  color:white;
+}
+
+
+  h1{
+    font-size: 200px;
+    color: white;
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+    padding-top: 100px;
+    padding-left: 60px;
+    -webkit-text-stroke: 2px white;
+  } 
+
+
+
+h2{
+    font-size: 100px;
+    font-style: helvetica;
+    color: white;
+    text-align: center;
+  }
+
+
+  
+
+   h3{
+    font-size: 60px;
+    font-style: helvetica;
+    color: white;
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+
+    ul {
+      background: #ffffb3;
+      font-size: 20px;
+      font-style: helvetica;
+      padding: 5px;
+    }
+
+    li {
+      display: inline-block;
+      padding: 0px 30px 0px 30px;
+      
+    }
+
+p {
+      font-size: 30px;
+      text-align: left;
+    }
+
+#social-buttons{
+  position:center;
+  color:black;
+}
+
+  footer{
+    text-align: center;
+    font-style: helvetica;
+    color: white;
+    font-size: 10px;
+  }
+
+</style>
