@@ -6,7 +6,7 @@
 }
 
 .debut{
-background-image: url("annafile/images/fleur.jpg");
+background-image: url("fleur2.jpg");
 background-size: cover;
 background-position: center;
 padding-top: 300px;
@@ -15,7 +15,7 @@ padding-left:100px;
 }
 
 .container{
-  background-color: #00cccc;
+  background-color: #00cc99;
 }
 
 label{
@@ -98,7 +98,6 @@ p {
 #social-buttons{
   position:center;
   color:black;
-  background-color: #ffffb3;
 }
 
   footer{
