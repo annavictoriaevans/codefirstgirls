@@ -4,12 +4,14 @@
 
 <head>
   <meta charset="utf-8"> 
-  <link type="text/css" rel="stylesheet" href="annafile/bootstrap/bootstrap.css">
   <link rel="stylesheet" type="text/css" href="css.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="annafile/bootstrap/bootstrap.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <title>NaturAddiction</title>
 </head>
+
 
 
 <body>
@@ -98,8 +100,14 @@
 
 
 <div id='social-buttons'>
-      <button class='btn-facebook' class='btn' href="https://www.facebook.com/NaturAddiction/"> Facebook </button>
-      <button class='btn-pinterest' class='btn'> Instagram </button>
+      
+
+      <a class='image-link' href='https://www.facebook.com/NaturAddict/' target='_blank'>
+      <img src='http://www.androidpolice.com/wp-content/uploads/2014/12/nexus2cee_Facebook-Thumb.png' width="50" height="50">
+    </a>
+      <a class='image-link' href='https://www.facebook.com/NaturAddict/' target='_blank'>
+      <img src='http://www.jwt.com/blog/wp-content/uploads/2016/08/instagram-1581266_960_720.jpg' width="50" height="50">
+    </a>
     </div>
 
 
