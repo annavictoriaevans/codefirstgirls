@@ -74,7 +74,7 @@ h2{
     background-color: #b3ffec; 
   }
 
-  
+
 
 .fa {
     padding: 20px;
@@ -92,7 +92,8 @@ h2{
 
 .fa-instagram {
     background: white;
-    color: white;
+    color:white;
+    background-color:pink;
 }
 
   footer{
