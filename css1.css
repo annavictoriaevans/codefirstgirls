@@ -11,7 +11,8 @@
 
 .debut{
 background-image: url("cascade.jpg");
-background-size: 1280px 864px;
+background-size: 1280px auto;
+display: block;
 background-position: top;
 background-repeat: no-repeat;
 padding-top: 100px;
